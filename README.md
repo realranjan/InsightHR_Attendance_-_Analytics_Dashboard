@@ -24,3 +24,10 @@ This project focuses on analyzing HR and attendance data to uncover insights and
 
 ## Contact
 For questions or collaboration, please contact the project maintainer.
+
+## Resume Highlights (XYZ Storytelling)
+- Analyzed HR and attendance data for 2022-2023, identifying key workforce trends and actionable insights using Excel and Power BI.
+- Developed interactive dashboards in Power BI, enabling stakeholders to visualize and monitor HR metrics, resulting in improved data-driven decision-making.
+- Automated data processing and reporting workflows, reducing manual effort and increasing reporting efficiency by X% (customize with your actual impact if known).
+- Presented findings and recommendations to management, contributing to strategic HR initiatives and policy improvements.
+- Ensured data privacy by working with masked datasets, maintaining compliance with organizational and regulatory standards.
